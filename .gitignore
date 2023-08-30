@@ -1,0 +1,5 @@
+
+*.csv
+Data Product/data/fake_data.json
+Data Product/data/fake_data.parquet
+*.xlsx
